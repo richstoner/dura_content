@@ -1,0 +1,1 @@
+[{"class_name": "wsCollectionObject", "children": [{"class_name": "wsBrainMapsCollection"}], "description": "Collections of one or more high resolution image sets", "title": "Image series"}, {"class_name": "wsCollectionObject", "children": [{"class_name": "wsAutismRootCollection"}], "description": "Medical content, raw and education", "title": "Medical content"}]
